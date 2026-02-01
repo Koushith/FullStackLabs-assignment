@@ -164,6 +164,42 @@ Use the "Create Quiz" feature in the app to build custom quizzes without code ch
 - **Secure IDs** - Custom quizzes use `crypto.randomUUID()` for unique IDs
 - **Input Limits** - Character limits on all form fields prevent abuse
 
+## Future Scope & Improvements
+
+### Backend Integration
+- **Database Integration** - Replace localStorage with PostgreSQL/MongoDB for persistent storage
+- **User Authentication** - Add login/signup with OAuth (Google, GitHub) or email/password
+- **API Development** - RESTful or GraphQL API for quiz management
+- **Real Leaderboard** - Server-side leaderboard with actual user rankings
+
+### Enhanced Features
+- **Timed Quizzes** - Add countdown timer for competitive quiz modes
+- **Daily/Weekly Challenges** - Scheduled quizzes with special rewards
+- **Quiz Categories & Tags** - Better organization with filtering and search
+- **Difficulty Levels** - Easy, Medium, Hard modes for each quiz
+- **Streaks & Achievements** - Gamification with badges and daily streaks
+- **Social Sharing** - Share results on social media platforms
+
+### Content & Learning
+- **AI-Generated Questions** - Use LLMs to generate quiz questions from topics
+- **Import/Export Quizzes** - JSON/CSV import and export functionality
+- **Quiz Templates** - Pre-built templates for common quiz formats
+- **Spaced Repetition** - Smart review system for questions answered incorrectly
+- **Progress Analytics** - Detailed charts showing learning trends over time
+
+### User Experience
+- **Dark/Light Theme Toggle** - User preference for color scheme
+- **Mobile App** - React Native version for iOS/Android
+- **Offline Support** - PWA with service workers for offline access
+- **Accessibility Improvements** - Enhanced screen reader support, keyboard navigation
+- **Multi-language Support** - i18n for internationalization
+
+### Collaboration
+- **Quiz Sharing** - Share custom quizzes via links
+- **Multiplayer Mode** - Real-time quiz competitions with friends
+- **Team Quizzes** - Group-based learning and competitions
+- **Comments & Discussions** - Discussion threads on quiz questions
+
 ## License
 
 MIT
