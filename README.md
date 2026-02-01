@@ -4,29 +4,29 @@ An educational quiz platform designed to help users test and reinforce their und
 
 ## Screenshots
 
-### Home Page
-![Home Page](public/screenshot-home.png)
+### Home Page (Hero)
+![Home Page Hero](public/screenshot-home.png)
 
-### Quiz Start
-![Quiz Start](public/screenshot-quiz-start.png)
+### Home Page (How It Works & Quizzes)
+![Home Page Quizzes](public/screenshot-quiz-start.png)
 
-### Quiz Question
-![Quiz Question](public/screenshot-quiz-question.png)
-
-### Quiz Answer Feedback
-![Quiz Answer](public/screenshot-quiz-answer.png)
-
-### Results Page
-![Results](public/screenshot-results.png)
-
-### Dashboard
-![Dashboard](public/screenshot-dashboard.png)
+### Home Page (Custom Quizzes)
+![Home Page Custom Quizzes](public/screenshot-quiz-question.png)
 
 ### Leaderboard
-![Leaderboard](public/screenshot-leaderboard.png)
+![Leaderboard](public/screenshot-quiz-answer.png)
 
-### Create Custom Quiz
-![Create Quiz](public/screenshot-create-quiz.png)
+### Dashboard
+![Dashboard](public/screenshot-results.png)
+
+### Quiz Start
+![Quiz Start](public/screenshot-dashboard.png)
+
+### Quiz Question (Learn Mode)
+![Quiz Question](public/screenshot-leaderboard.png)
+
+### Quiz Answer Feedback
+![Quiz Answer](public/screenshot-create-quiz.png)
 
 ## Features
 
